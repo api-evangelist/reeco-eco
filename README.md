@@ -1,4 +1,4 @@
-# reeco-eco
+# Reeco
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,95 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-reeco-eco is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://reeco.eco/
+Reeco provides a B2B SaaS platform that issues Digital Product Passports for textiles, verified in real time against primary certification sources. Leveraging AI, cryptographic signatures, and per‑garment mass‑balance calculations, Reeco ensures ESPR compliance, supports GRS, RCS and OCS certifications, and offers detailed sustainability indices such as durability, repairability and recyclability. The platform includes a regulatory search engine (Reecopedia) and integrates with EU bodies like CIRPASS‑2 and JRC, helping brands and suppliers achieve transparent, legally robust traceability across the supply chain.
+
+**Areas:** Textile · Sustainability · DigitalProductPassport · Verification · AI
+
+## Reeco on APIs.io
+
+Everything profiled for Reeco is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/reeco-eco/](https://apis.io/providers/reeco-eco/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Reeco API](https://apis.io/apis/reeco-eco/reeco-api/) — Reeco provides a B2B SaaS platform for Digital Product Passports; the API is documented behind a developer portal but access is blocked by bot protection.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Reeco Domain Security](https://apis.io/security/reeco-eco/reeco-eco-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://reeco.eco/)
+- [Documentation](https://portal.reeco.eco)
+- [Support](https://reeco.eco/contact/)
+- [Blog](https://reeco.eco/news/)
+- [Terms of service](https://reeco.eco/terms-of-use/)
+- [Privacy policy](https://reeco.eco/privacy/)
+- [GitHub](https://github.com/halleluiaman-ux)
+
+## API Evangelist rating
+
+**Kin Score 15.3** — emerging · rubric 0.28.1 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 4.8 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 17.0 |
+
+**Agent readiness 13.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/reeco-eco/](https://apis.io/providers/reeco-eco/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Reeco: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/reeco-eco/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
